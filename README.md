@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Arjun-Anil
 - 👀 I’m interested in ... Web and App development....(Still need to learn those two though...)
-- 🌱 I’m currently learning . Python..
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning . Python🐍
 - 📫 How to reach me ...contact me - arjunanil373@gmail.com
 
 <!---
